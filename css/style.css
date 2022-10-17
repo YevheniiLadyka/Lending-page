@@ -34,5 +34,90 @@ line-height: 21px;
 text-align: center;
 text-decoration-line: underline;
 margin-top: 45px;
+margin-bottom: 99px;
 
 }
+
+.reebok__text {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+text-decoration-line: underline;
+color: #070707;
+margin-top: 45px;
+margin-bottom: 99px;
+
+}
+
+.braun__text {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+text-decoration-line: underline;
+color: #070707;
+margin-top: 46px;
+
+}
+
+.contacts__tittle {
+ font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 34px;
+line-height: 39px;
+text-align: center;
+color: #070707;
+margin-top: 210px;
+}
+
+.contacts__text {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #070707;
+margin-top: 20px;
+}
+
+.contacts__action {
+ text-align: center;
+ margin-top: 42px;
+ margin-bottom: 94px;
+}
+.contacts__button {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+background-color: black;
+color: white;
+padding-top: 13px;
+padding-bottom: 8px;
+}
+
+.contacts__text2 {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #828282;
+margin-top: 45px;
+}
+
+#icons {
+    width: auto;
+    margin-left: 580px;
+}
+
