@@ -6,6 +6,7 @@
 
 img {
     width: 100%;
+    display: block;
 }
 
 .portfolio {
@@ -121,3 +122,56 @@ margin-top: 45px;
     margin-left: 580px;
 }
 
+.list {
+display: inline;
+ font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #070707;
+margin: 33px 100px;
+}
+
+.container {
+background-color: white;
+}
+    
+.line {
+ border: 1px solid #828282;
+ transform: matrix(1, 0, 0, 1, 0, 0);
+ margin-top: 32px;
+}
+
+.name, .lenguage, .date {
+    display: inline;
+}
+
+.person__name, .person__prof, .person__language {
+    margin: 30px;
+}
+
+.person__name {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 47.3392px;
+line-height: 54px;
+color: #070707;
+
+}
+
+.person__prof, .person__language {
+ font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #070707;
+
+}
+
+.person__img {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
