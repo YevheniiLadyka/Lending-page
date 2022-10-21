@@ -130,11 +130,12 @@ font-weight: 400;
 font-size: 18px;
 line-height: 21px;
 color: #070707;
-margin: 33px 100px;
+margin: 33px 57px;
 }
 
 .container {
-background-color: white;
+max-width: 900px;
+margin: 0 auto;
 }
     
 .line {
@@ -175,3 +176,9 @@ color: #070707;
     margin-top: 50px;
     margin-bottom: 100px;
 }
+
+.flex {
+    display: flex;
+}
+
+
